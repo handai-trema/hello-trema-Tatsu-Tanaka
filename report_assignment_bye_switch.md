@@ -38,6 +38,9 @@ Bye 0xabc
 Bye 0xabc
 ```
 と表示される。
+
+###ソースコードのリンク
+* [hello_trema.rb](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/lib/hello_trema.rb) (本課題のソースコード)
 ##参考文献
 デビッド・トーマス+アンドリュー・ハント(2001)「プログラミング Ruby」ピアソン・エデュケーション.
 

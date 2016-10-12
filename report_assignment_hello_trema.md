@@ -35,6 +35,9 @@ nameはモジュールの名前を返す．
 したがって、self.class.nameによって現在のクラス名HelloTremaを取得できる。
 また、エスケープシーケンスが利用できるダブルクォート内で#{式}というシーケンスを使用することで文字列内にRubyの式の値を挿入することができる。
 
+###ソースコードのリンク
+* [hello_trema.rb](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/lib/hello_trema.rb) (本課題のソースコード)
+
 ##参考文献
 デビッド・トーマス+アンドリュー・ハント(2001)「プログラミング Ruby」ピアソン・エデュケーション.
 
